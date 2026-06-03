@@ -1,14 +1,15 @@
-# 系统/临时文件
+# 图片文件 - git 只追踪文字，图片本地保留
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+*.svg
+*.ico
+*.other
+*.tiff
 nul
-*.base
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# WPS Comate 工作区配置
 .wpscomate/
-
-# Obsidian 工作区缓存（不包含核心配置）
+Clippings/
 .obsidian/workspace.json
-.obsidian/workspace
-.obsidian/cache/
