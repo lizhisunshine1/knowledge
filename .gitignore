@@ -9,7 +9,17 @@
 *.ico
 *.other
 *.tiff
+
+# 系统/临时文件
+*.base
+*.bak
 nul
+
+# WPS Comate 工作区配置
 .wpscomate/
+
+# Clippings
 Clippings/
+
+# Obsidian
 .obsidian/workspace.json
