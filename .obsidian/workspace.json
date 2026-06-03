@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "b667e0f0674f3d79",
+    "type": "split",
+    "children": [
+      {
+        "id": "92891ca7357c3260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "521d79b3b2f753a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "729039eb0b034416",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cbca379bea9e807",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac9749dfd76065f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "404db492f78f0fc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "三层双向",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6dfb76ae8c3e6e21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398.5
+  },
+  "right": {
+    "id": "b26f7ca2c0c56bfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9486c716b8f9ff4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b614abfecc7263aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "e87c44a0317122e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "124e51163f365de4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8a9d42ac650d035a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "883eca055aaa87e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "521d79b3b2f753a3",
+  "lastOpenFiles": [
+    "03_Resources/01_底层原理/inbox/在全国大停电的古巴，我见到了一位发光的年轻人/在全国大停电的古巴，我见到了一位发光的年轻人.md",
+    "03_Resources/01_底层原理/abstract/思维导图：在全国大停电的古巴，我见到了一位发光的年轻人.md",
+    "03_Resources/01_底层原理/01_概念卡/C-借船出海策略.md",
+    "03_Resources/01_底层原理/02_方法卡/M-三层双向链接加工法.md",
+    "03_Resources/02_商业化与创业/01_概念卡/C-商业模式.md",
+    "01_Projects/P-第二大脑搭建/P-第二大脑搭建.md",
+    "index.md",
+    "选择12问favorite questions.md",
+    "ceshi.md",
+    "未命名思维导图 1.md",
+    "未命名思维导图.md",
+    "未命名 1.base",
+    "未命名 2.base",
+    "03_Resources/01_底层原理/01_概念卡/C-波士顿矩阵.md",
+    "03_Resources/01_底层原理/abstract/底层逻辑-刘润.md",
+    "03_Resources/01_底层原理/abstract/原文.md",
+    "pages/contents.md",
+    "03_Resources/01_底层原理/abstract/旧摘要-在全国大停电的古巴，我见到了一位发光的年轻人.md",
+    "03_Resources/01_底层原理/abstract/对中国来说，古巴就像一场持续了67年的社会试验.md",
+    "00_Inbox/20260314160337_在古巴待了1周，很多奇奇怪怪又有趣的细节/20260314160337_在古巴待了1周，很多奇奇怪怪又有趣的细节.md",
+    "03_Resources/01_底层原理/abstract/底层逻辑.md",
+    "00_Inbox/20260320145646_03月20日（勤商日历卡片）：阿里巴巴的问题，不是忘记客户，而是过度关注客户/20260320145646_03月20日（勤商日历卡片）：阿里巴巴的问题，不是忘记客户，而是过度关注客户.md",
+    "00_Inbox/20260319010116_陈香入喉，温润入心/20260319010116_陈香入喉，温润入心.md",
+    "00_Inbox/20260318124900_商业到底是什么？/20260318124900_商业到底是什么？.md",
+    "00_Inbox/20260313000643_一颗心，一饼老普情/20260313000643_一颗心，一饼老普情.md",
+    "00_Inbox/20260318124900_团队带不动，要不要重新招人？/20260318124900_团队带不动，要不要重新招人？.md",
+    "如何使用本知识库.md",
+    "logseq/custom.css",
+    "pages",
+    "logseq/config.edn",
+    "journals",
+    "logseq",
+    "03_Resources/01_底层原理/01_概念卡/C-利润与现金流三层关系.md",
+    "03_Resources/02_商业化与创业/abstract",
+    "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_011.gif",
+    "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_010.png",
+    "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_009.png",
+    "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_008.jpeg",
+    "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_007.other",
+    "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_005.other",
+    "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_003.png",
+    "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_002.png",
+    "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_001.png",
+    "03_Resources/01_底层原理/inbox/电商的下一个时代，正在到来/images/img_014.gif",
+    "03_Resources/01_底层原理/inbox/电商的下一个时代，正在到来/images/img_013.gif",
+    "03_Resources/01_底层原理/inbox/电商的下一个时代，正在到来/images/img_012.png"
+  ]
+}
