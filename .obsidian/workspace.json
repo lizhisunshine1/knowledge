@@ -4,35 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "debf5171f1e696e7",
-        "type": "tabs",
+        "id": "04216797a1ef0384",
+        "type": "split",
         "children": [
           {
-            "id": "0e1592a9e314775a",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap-nextgen-plugin",
-              "state": {},
-              "icon": "dot-network",
-              "title": "思维导图：在平等的古巴，我重新理解了贫穷"
-            }
+            "id": "debf5171f1e696e7",
+            "type": "tabs",
+            "dimension": 29.761904761904763,
+            "children": [
+              {
+                "id": "0e1592a9e314775a",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap-nextgen-plugin",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "思维导图：在平等的古巴，我重新理解了贫穷"
+                }
+              },
+              {
+                "id": "02aa16fd96ffb57a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03_Resources/01_底层原理/abstract/思维导图：空调，这个百年不变的老行业，正在被重新定义.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "思维导图：空调，这个百年不变的老行业，正在被重新定义"
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "02aa16fd96ffb57a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Resources/01_底层原理/abstract/思维导图：在全国大停电的古巴，我见到了一位发光的年轻人.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "思维导图：在全国大停电的古巴，我见到了一位发光的年轻人"
-            }
+            "id": "9e93413b1017482b",
+            "type": "tabs",
+            "dimension": 70.23809523809523,
+            "children": [
+              {
+                "id": "3fffbb97f5c42ce6",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap-nextgen-plugin",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "思维导图：空调，这个百年不变的老行业，正在被重新定义"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -89,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 398.5,
+    "collapsed": true
   },
   "right": {
     "id": "b26f7ca2c0c56bfa",
@@ -194,16 +220,18 @@
       "bases:新建数据库": false
     }
   },
-  "active": "ac9749dfd76065f9",
+  "active": "3fffbb97f5c42ce6",
   "lastOpenFiles": [
+    "03_Resources/01_底层原理/abstract/思维导图：在平等的古巴，我重新理解了贫穷.md",
+    "03_Resources/01_底层原理/abstract/思维导图：空调，这个百年不变的老行业，正在被重新定义.md",
+    "03_Resources/01_底层原理/inbox/空调，这个百年不变的老行业，正在被重新定义/空调，这个百年不变的老行业，正在被重新定义.md",
+    "03_Resources/01_底层原理/abstract/思维导图：在全国大停电的古巴，我见到了一位发光的年轻人.md",
+    "03_Resources/01_底层原理/abstract/原文.md",
+    "03_Resources/01_底层原理/inbox/在平等的古巴，我重新理解了贫穷/在平等的古巴，我重新理解了贫穷.md",
+    "03_Resources/01_底层原理/01_概念卡/C-自我削弱的调节回路.md",
     "_fix_quotes.py",
     "03_Resources/01_底层原理/abstract/思维导图：给管理者的5点建议.md",
-    "03_Resources/01_底层原理/abstract/原文.md",
-    "03_Resources/01_底层原理/abstract/思维导图：空调，这个百年不变的老行业，正在被重新定义.md",
-    "03_Resources/01_底层原理/abstract/思维导图：在全国大停电的古巴，我见到了一位发光的年轻人.md",
-    "03_Resources/01_底层原理/abstract/思维导图：在平等的古巴，我重新理解了贫穷.md",
     "03_Resources/01_底层原理/abstract/空调，这个百年不变的老行业，正在被重新定义.bak.md",
-    "03_Resources/01_底层原理/01_概念卡/C-自我削弱的调节回路.md",
     "03_Resources/01_底层原理/inbox/在全国大停电的古巴，我见到了一位发光的年轻人/在全国大停电的古巴，我见到了一位发光的年轻人.md",
     "03_Resources/01_底层原理/01_概念卡/C-借船出海策略.md",
     "03_Resources/01_底层原理/02_方法卡/M-三层双向链接加工法.md",
@@ -223,7 +251,6 @@
     "03_Resources/01_底层原理/abstract/对中国来说，古巴就像一场持续了67年的社会试验.md",
     "00_Inbox/20260314160337_在古巴待了1周，很多奇奇怪怪又有趣的细节/20260314160337_在古巴待了1周，很多奇奇怪怪又有趣的细节.md",
     "03_Resources/01_底层原理/abstract/底层逻辑.md",
-    "00_Inbox/20260320145646_03月20日（勤商日历卡片）：阿里巴巴的问题，不是忘记客户，而是过度关注客户/20260320145646_03月20日（勤商日历卡片）：阿里巴巴的问题，不是忘记客户，而是过度关注客户.md",
     "logseq/custom.css",
     "pages",
     "logseq/config.edn",
@@ -235,7 +262,6 @@
     "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_009.png",
     "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_008.jpeg",
     "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_007.other",
-    "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_005.other",
     "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_003.png",
     "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_002.png",
     "03_Resources/01_底层原理/inbox/给管理者的5点建议/images/img_001.png",
