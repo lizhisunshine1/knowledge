@@ -1,7 +1,15 @@
 {
   "version": "2.0",
   "layout": [
-    null
+    [
+      null
+    ],
+    [
+      {
+        "type": "pinned",
+        "path": "03_Resources/01_底层原理/abstract/思维导图：来到这里，我感觉穿越回了1978年.md"
+      }
+    ]
   ],
   "settings": {
     "splitDirection": "horizontal",
