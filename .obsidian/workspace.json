@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c143dfaba0855c8a",
-        "type": "split",
+        "id": "941619b1c0eb2cd9",
+        "type": "tabs",
         "children": [
           {
-            "id": "efe7ff36a22badce",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6fb579e5776d734f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "03_Resources/01_底层原理/inbox/来到这里，我感觉穿越回了1978年/来到这里，我感觉穿越回了1978年.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "来到这里，我感觉穿越回了1978年"
-                }
-              }
-            ]
-          },
-          {
-            "id": "eddd44300a71020f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7a62ffd07cf124bc",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap-nextgen-plugin",
-                  "state": {},
-                  "icon": "dot-network",
-                  "title": "思维导图：来到这里，我感觉穿越回了1978年"
-                }
-              }
-            ]
+            "id": "c1dfac697a5b6d03",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,53 +179,53 @@
       "bases:新建数据库": false
     }
   },
-  "active": "6fb579e5776d734f",
+  "active": "c1dfac697a5b6d03",
   "lastOpenFiles": [
-    "03_Resources/01_底层原理/abstract/思维导图：来到这里，我感觉穿越回了1978年.md",
-    "03_Resources/01_底层原理/inbox/来到这里，我感觉穿越回了1978年/来到这里，我感觉穿越回了1978年.md",
-    "03_Resources/04_自媒体创业/00_MOC-自媒体创业.md",
-    "03_Resources/01_底层原理/00_MOC-底层原理.md",
-    "03_Resources/04_自媒体创业/abstract/思维导图：2026，该如何用抖音赚到钱？.md",
-    "03_Resources/04_自媒体创业/01_概念卡/C-心价比消费.md",
-    "03_Resources/04_自媒体创业/inbox/2026，该如何用抖音赚到钱？/images/img_006.gif",
-    "03_Resources/04_自媒体创业/inbox/2026，该如何用抖音赚到钱？/images/img_008.png",
-    "03_Resources/04_自媒体创业/inbox/2026，该如何用抖音赚到钱？/images/img_009.gif",
-    "03_Resources/04_自媒体创业/inbox/2026，该如何用抖音赚到钱？/images/img_007.png",
-    "03_Resources/04_自媒体创业/inbox/2026，该如何用抖音赚到钱？/images/img_004.other",
-    "03_Resources/04_自媒体创业/inbox/2026，该如何用抖音赚到钱？/images/img_003.png",
-    "03_Resources/04_自媒体创业/inbox/2026，该如何用抖音赚到钱？/images/img_005.other",
-    "03_Resources/04_自媒体创业/inbox/2026，该如何用抖音赚到钱？/images/img_001.other",
-    "03_Resources/04_自媒体创业/inbox/2026，该如何用抖音赚到钱？/2026，该如何用抖音赚到钱？.md",
-    "03_Resources/04_自媒体创业/inbox/2026，该如何用抖音赚到钱？/images",
-    "03_Resources/04_自媒体创业/inbox/2026，该如何用抖音赚到钱？",
-    "03_Resources/01_底层原理/03_案例卡/A-离线互联网：跨越封锁的信息分发.md",
-    "03_Resources/01_底层原理/01_概念卡/C-极端环境商业适应性.md",
-    "03_Resources/01_底层原理/inbox/来到这里，我感觉穿越回了1978年/images/img_012.jpeg",
-    "03_Resources/01_底层原理/inbox/来到这里，我感觉穿越回了1978年/images/img_011.jpeg",
-    "03_Resources/01_底层原理/inbox/来到这里，我感觉穿越回了1978年/images/img_017.gif",
-    "03_Resources/01_底层原理/inbox/来到这里，我感觉穿越回了1978年/images/img_015.png",
-    "03_Resources/01_底层原理/inbox/来到这里，我感觉穿越回了1978年/images/img_016.png",
-    "03_Resources/01_底层原理/inbox/来到这里，我感觉穿越回了1978年/images/img_013.other",
-    "03_Resources/01_底层原理/inbox/来到这里，我感觉穿越回了1978年/images/img_007.other",
-    "03_Resources/01_底层原理/inbox/来到这里，我感觉穿越回了1978年/images/img_004.other",
-    "03_Resources/01_底层原理/inbox/来到这里，我感觉穿越回了1978年/images",
-    "03_Resources/01_底层原理/inbox/来到这里，我感觉穿越回了1978年",
-    "todelete/20260312130153_03月12日（勤商日历卡片）：不要混淆流量平台和工具平台/20260312130153_03月12日（勤商日历卡片）：不要混淆流量平台和工具平台.md",
-    "todelete/20260310231838_鸿运祁红，一口迎好运/20260310231838_鸿运祁红，一口迎好运.md",
-    "index.md",
-    "99_System/01_目录索引.md",
-    "99_System/00_首页_Dashboard.md",
-    "03_Resources/05_AI解决方案工作/inbox/难走的路，从不拥挤。/难走的路，从不拥挤。.md",
-    "03_Resources/05_AI解决方案工作/abstract/思维导图：难走的路，从不拥挤。.md",
-    "03_Resources/01_底层原理/inbox/在平等的古巴，我重新理解了贫穷/在平等的古巴，我重新理解了贫穷.md",
-    "log-update.md",
-    "03_Resources/05_AI解决方案工作/01_概念卡/C-OKR-KR三作用框架.md",
-    "03_Resources/05_AI解决方案工作/01_概念卡/C-三层行动计划体系.md",
-    "03_Resources/05_AI解决方案工作/01_概念卡/C-STO薪酬分配模型.md",
-    "00_Inbox/20260310231838_来到这里，我感觉穿越回了1978年/20260310231838_来到这里，我感觉穿越回了1978年.md",
-    "00_Inbox/20260310231838_难走的路，从不拥挤。/20260310231838_难走的路，从不拥挤。.md",
-    "00_Inbox/20260312130153_03月12日（勤商日历卡片）：不要混淆流量平台和工具平台/20260312130153_03月12日（勤商日历卡片）：不要混淆流量平台和工具平台.md",
-    "00_Inbox/20260312130153_2026，该如何用抖音赚到钱？/20260312130153_2026，该如何用抖音赚到钱？.md",
-    "00_Inbox/20260310231838_鸿运祁红，一口迎好运/20260310231838_鸿运祁红，一口迎好运.md"
+    "03_Resources/03_AI与计算机/abstract/旧摘要-程序员-遭遇史上最大危机.md",
+    "03_Resources/01_底层原理/abstract/旧摘要-内卷的路只有一条-走出内卷的路却有千万条.md",
+    "03_Resources/01_底层原理/abstract/旧摘要-别再乱甩锅-大责在上小责在下零责在外.md",
+    "03_Resources/01_底层原理/abstract/旧摘要-解读十五五规划-两大变化五大重点.md",
+    "03_Resources/01_底层原理/abstract/旧摘要-两会政府工作报告-我斗胆帮你划个重点.md",
+    "03_Resources/03_AI与计算机/abstract/思维导图：程序员-遭遇史上最大危机.md",
+    "03_Resources/01_底层原理/abstract/思维导图：内卷的路只有一条-走出内卷的路却有千万条.md",
+    "03_Resources/01_底层原理/abstract/思维导图：别再乱甩锅-大责在上小责在下零责在外.md",
+    "03_Resources/01_底层原理/abstract/思维导图：解读十五五规划-两大变化五大重点.md",
+    "03_Resources/01_底层原理/abstract/思维导图：两会政府工作报告-我斗胆帮你划个重点.md",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/images/img_012.png",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/images/img_013.gif",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/images/img_011.gif",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/images/img_010.other",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/images/img_009.jpeg",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/images/img_008.jpeg",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/images/img_006.png",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/images/img_007.jpeg",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/images/img_005.other",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/images/img_003.png",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/images/img_004.png",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/images/img_002.other",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/images/img_001.png",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/程序员-遭遇史上最大危机.md",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机/images",
+    "03_Resources/03_AI与计算机/inbox/程序员-遭遇史上最大危机",
+    "03_Resources/01_底层原理/inbox/内卷的路只有一条-走出内卷的路却有千万条/images/img_036.other",
+    "03_Resources/01_底层原理/inbox/内卷的路只有一条-走出内卷的路却有千万条/images/img_032.other",
+    "03_Resources/01_底层原理/inbox/内卷的路只有一条-走出内卷的路却有千万条/images/img_031.other",
+    "03_Resources/01_底层原理/inbox/内卷的路只有一条-走出内卷的路却有千万条/images/img_005.other",
+    "03_Resources/01_底层原理/inbox/内卷的路只有一条-走出内卷的路却有千万条/内卷的路只有一条-走出内卷的路却有千万条.md",
+    "03_Resources/01_底层原理/inbox/内卷的路只有一条-走出内卷的路却有千万条/images",
+    "03_Resources/01_底层原理/inbox/别再乱甩锅-大责在上小责在下零责在外/别再乱甩锅-大责在上小责在下零责在外.md",
+    "03_Resources/01_底层原理/inbox/解读十五五规划-两大变化五大重点/解读十五五规划-两大变化五大重点.md",
+    "03_Resources/01_底层原理/inbox/两会政府工作报告-我斗胆帮你划个重点/两会政府工作报告-我斗胆帮你划个重点.md",
+    "todelete/20260308132352_女神节快乐/20260308132352_女神节快乐.md",
+    "todelete/20260308132352_刘润公众号一周速览，敬请笑纳/20260308132352_刘润公众号一周速览，敬请笑纳.md",
+    "todelete/20260308132352_今天的女性，并不需要谁的评价，只需要继续向前的能量/20260308132352_今天的女性，并不需要谁的评价，只需要继续向前的能量.md",
+    "todelete/20260307101542_升维思考，让复杂的商业难题迎刃而解/20260307101542_升维思考，让复杂的商业难题迎刃而解.md",
+    "todelete/20260307101542_元宵节有福利｜刘润日课两周年了！/20260307101542_元宵节有福利｜刘润日课两周年了！.md",
+    "00_Inbox/20260306122056_两会政府工作报告，我斗胆帮你划个重点/20260306122056_两会政府工作报告，我斗胆帮你划个重点.md",
+    "00_Inbox/20260307101542_别再乱甩锅了/20260307101542_别再乱甩锅了.md",
+    "00_Inbox/20260307101542_程序员，遭遇史上最大“危机”？/20260307101542_程序员，遭遇史上最大“危机”？.md",
+    "00_Inbox/20260307101542_升维思考，让复杂的商业难题迎刃而解/20260307101542_升维思考，让复杂的商业难题迎刃而解.md",
+    "00_Inbox/20260307101542_元宵节有福利｜刘润日课两周年了！/20260307101542_元宵节有福利｜刘润日课两周年了！.md",
+    "00_Inbox/20260308132352_今天的女性，并不需要谁的评价，只需要继续向前的能量/20260308132352_今天的女性，并不需要谁的评价，只需要继续向前的能量.md"
   ]
 }
