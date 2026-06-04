@@ -1,7 +1,15 @@
 {
   "version": "2.0",
   "layout": [
-    null
+    [
+      null
+    ],
+    [
+      {
+        "type": "pinned",
+        "path": "03_Resources/01_底层原理/abstract/思维导图：两会政府工作报告-我斗胆帮你划个重点.md"
+      }
+    ]
   ],
   "settings": {
     "splitDirection": "horizontal",
