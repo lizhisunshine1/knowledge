@@ -1,27 +1,7 @@
 {
   "version": "2.0",
   "layout": [
-    [
-      null
-    ],
-    [
-      {
-        "type": "pinned",
-        "path": "03_Resources/01_底层原理/abstract/思维导图：给你讲透我的老本行：到底什么是战略？.md"
-      },
-      {
-        "type": "pinned",
-        "path": "03_Resources/03_AI与计算机/abstract/思维导图：给想用小龙虾赚大钱的人泼盆冷水.md"
-      },
-      {
-        "type": "pinned",
-        "path": "03_Resources/01_底层原理/abstract/思维导图：低效的会，是对员工生命的浪费.md"
-      },
-      {
-        "type": "pinned",
-        "path": "03_Resources/01_底层原理/abstract/思维导图：为什么真正厉害的人，都很简单？.md"
-      }
-    ]
+    null
   ],
   "settings": {
     "splitDirection": "horizontal",
