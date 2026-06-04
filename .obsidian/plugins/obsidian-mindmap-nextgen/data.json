@@ -1,19 +1,11 @@
 {
   "version": "2.0",
   "layout": [
-    [
-      {
-        "type": "pinned",
-        "path": "03_Resources/01_底层原理/abstract/思维导图：在平等的古巴，我重新理解了贫穷.md"
-      },
-      null
-    ],
-    [
-      {
-        "type": "pinned",
-        "path": "03_Resources/01_底层原理/abstract/思维导图：别卷体力。真想卷，卷理解能力。.md"
-      }
-    ]
+    {
+      "type": "pinned",
+      "path": "03_Resources/01_底层原理/abstract/思维导图：别卷体力。真想卷，卷理解能力。.md"
+    },
+    null
   ],
   "settings": {
     "splitDirection": "horizontal",
