@@ -183,8 +183,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "6fb579e5776d734f",
+  "active": "ac9749dfd76065f9",
   "lastOpenFiles": [
+    "__pycache__/add_block_ids.cpython-312.pyc.2359680747632",
+    "__pycache__/add_block_ids.cpython-312.pyc",
+    "__pycache__/add_block_ids.cpython-312.pyc.2006920579760",
+    "__pycache__",
     "03_Resources/05_AI解决方案工作/abstract/思维导图：难走的路，从不拥挤。.md",
     "03_Resources/05_AI解决方案工作/inbox/难走的路，从不拥挤。/难走的路，从不拥挤。.md",
     "03_Resources/01_底层原理/inbox/在平等的古巴，我重新理解了贫穷/在平等的古巴，我重新理解了贫穷.md",
@@ -209,9 +213,6 @@
     "03_Resources/05_AI解决方案工作/inbox/难走的路，从不拥挤。/images/img_003.png",
     "03_Resources/05_AI解决方案工作/inbox/难走的路，从不拥挤。/images/img_004.other",
     "03_Resources/05_AI解决方案工作/inbox/难走的路，从不拥挤。/images/img_001.other",
-    "03_Resources/05_AI解决方案工作/inbox/难走的路，从不拥挤。/images",
-    "03_Resources/05_AI解决方案工作/inbox/难走的路，从不拥挤。",
-    "annotate_v3.py",
     "00_Inbox/20260310231838_来到这里，我感觉穿越回了1978年/20260310231838_来到这里，我感觉穿越回了1978年.md",
     "00_Inbox/20260310231838_难走的路，从不拥挤。/20260310231838_难走的路，从不拥挤。.md",
     "00_Inbox/20260312130153_03月12日（勤商日历卡片）：不要混淆流量平台和工具平台/20260312130153_03月12日（勤商日历卡片）：不要混淆流量平台和工具平台.md",
@@ -229,7 +230,6 @@
     "06_Opportunity_Lab/机会判断方法论·完整框架.md",
     "06_Opportunity_Lab/Q-如何判断一个需求是否值得做.md",
     "06_Opportunity_Lab/00_机会实验室-Dashboard.md",
-    "03_Resources/01_底层原理/inbox/空调，这个百年不变的老行业，正在被重新定义/空调，这个百年不变的老行业，正在被重新定义.md",
-    "03_Resources/01_底层原理/abstract/原文.md"
+    "03_Resources/01_底层原理/inbox/空调，这个百年不变的老行业，正在被重新定义/空调，这个百年不变的老行业，正在被重新定义.md"
   ]
 }
