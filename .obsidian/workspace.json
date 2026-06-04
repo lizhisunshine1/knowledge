@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8eb4e59e5ac0099f",
+        "id": "e76921534b0e49ba",
         "type": "split",
         "children": [
           {
             "id": "941619b1c0eb2cd9",
             "type": "tabs",
-            "dimension": 60.863095238095234,
+            "dimension": 70.23809523809523,
             "children": [
               {
                 "id": "c1dfac697a5b6d03",
@@ -18,32 +18,54 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "03_Resources/01_底层原理/inbox/两会政府工作报告-我斗胆帮你划个重点/两会政府工作报告-我斗胆帮你划个重点.md",
+                    "file": "03_Resources/01_底层原理/inbox/低效的会，是对员工生命的浪费/低效的会，是对员工生命的浪费.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "两会政府工作报告-我斗胆帮你划个重点"
+                  "title": "低效的会，是对员工生命的浪费"
                 }
               }
             ]
           },
           {
-            "id": "b9ea52e82a1bdbf3",
+            "id": "7223e69897a4c22b",
             "type": "tabs",
-            "dimension": 39.13690476190476,
+            "dimension": 29.761904761904763,
             "children": [
               {
-                "id": "612f5d1e29dc7e9d",
+                "id": "03270741d3cd5296",
                 "type": "leaf",
                 "state": {
                   "type": "mindmap-nextgen-plugin",
                   "state": {},
                   "icon": "dot-network",
-                  "title": "思维导图：两会政府工作报告-我斗胆帮你划个重点"
+                  "title": "思维导图：给你讲透我的老本行：到底什么是战略？"
+                }
+              },
+              {
+                "id": "c3cf323d961484e0",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap-nextgen-plugin",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "思维导图：给想用小龙虾赚大钱的人泼盆冷水"
+                }
+              },
+              {
+                "id": "886e43bff226c786",
+                "type": "leaf",
+                "dimension": 50,
+                "state": {
+                  "type": "mindmap-nextgen-plugin",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "思维导图：低效的会，是对员工生命的浪费"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -78,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "两会政府工作报告",
+                "query": "低效的会",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,53 +231,52 @@
       "bases:新建数据库": false
     }
   },
-  "active": "612f5d1e29dc7e9d",
+  "active": "c1dfac697a5b6d03",
   "lastOpenFiles": [
-    "03_Resources/03_AI与计算机/06_原则卡/P-AI效率陷阱：先找值钱问题.md",
-    "03_Resources/03_AI与计算机/01_概念卡/C-OpenClaw四大核心能力.md",
+    "03_Resources/01_底层原理/abstract/思维导图：低效的会，是对员工生命的浪费.md",
+    "03_Resources/01_底层原理/inbox/低效的会，是对员工生命的浪费/低效的会，是对员工生命的浪费.md",
+    "03_Resources/03_AI与计算机/inbox/给想用小龙虾赚大钱的人泼盆冷水/images/img_008.gif",
+    "03_Resources/03_AI与计算机/inbox/给想用小龙虾赚大钱的人泼盆冷水/images/img_006.gif",
+    "03_Resources/03_AI与计算机/inbox/给想用小龙虾赚大钱的人泼盆冷水/images/img_007.png",
+    "03_Resources/03_AI与计算机/inbox/给想用小龙虾赚大钱的人泼盆冷水/images/img_005.other",
+    "03_Resources/03_AI与计算机/inbox/给想用小龙虾赚大钱的人泼盆冷水/images/img_004.gif",
+    "03_Resources/03_AI与计算机/inbox/给想用小龙虾赚大钱的人泼盆冷水/images/img_001.png",
+    "03_Resources/03_AI与计算机/inbox/给想用小龙虾赚大钱的人泼盆冷水/images/img_003.png",
+    "03_Resources/03_AI与计算机/inbox/给想用小龙虾赚大钱的人泼盆冷水/images/img_002.png",
+    "03_Resources/03_AI与计算机/inbox/给想用小龙虾赚大钱的人泼盆冷水/给想用小龙虾赚大钱的人泼盆冷水.md",
+    "03_Resources/03_AI与计算机/inbox/给想用小龙虾赚大钱的人泼盆冷水/images",
+    "03_Resources/03_AI与计算机/inbox/给想用小龙虾赚大钱的人泼盆冷水",
+    "03_Resources/01_底层原理/00_MOC-底层原理.md",
+    "03_Resources/03_AI与计算机/inbox/给想用“小龙虾”赚大钱的人泼盆冷水/给想用“小龙虾”赚大钱的人泼盆冷水.md",
+    "image_30091a28.png-result.jpg",
+    "image_30091a28.png-result.txt",
+    "image_30091a28.png",
+    "03_Resources/03_AI与计算机/abstract/思维导图：给想用小龙虾赚大钱的人泼盆冷水.md",
+    "03_Resources/03_AI与计算机/00_MOC-AI与计算机.md",
+    "03_Resources/01_底层原理/inbox/底层逻辑-刘润.md",
+    "03_Resources/01_底层原理/abstract/底层逻辑2.md",
+    "03_Resources/01_底层原理/abstract/底层逻辑.md",
+    "03_Resources/01_底层原理/03_案例卡/A-经典博弈案例.md",
     "03_Resources/01_底层原理/02_方法卡/M-珠峰19路战略选择框架.md",
     "03_Resources/01_底层原理/01_概念卡/C-战略的本质：关于How的艺术.md",
+    "03_Resources/01_底层原理/abstract/思维导图：给你讲透我的老本行：到底什么是战略？.md",
+    "03_Resources/01_底层原理/inbox/两会政府工作报告-我斗胆帮你划个重点/两会政府工作报告-我斗胆帮你划个重点.md",
+    "03_Resources/03_AI与计算机/06_原则卡/P-AI效率陷阱：先找值钱问题.md",
+    "03_Resources/03_AI与计算机/01_概念卡/C-OpenClaw四大核心能力.md",
     "03_Resources/01_底层原理/02_方法卡/M-会议时代进化四阶段.md",
     "03_Resources/01_底层原理/01_概念卡/C-会议三大恶性循环.md",
-    "03_Resources/03_AI与计算机/abstract/思维导图：给想用小龙虾赚大钱的人泼盆冷水.md",
-    "03_Resources/01_底层原理/abstract/思维导图：给你讲透我的老本行：到底什么是战略？.md",
-    "03_Resources/01_底层原理/abstract/思维导图：低效的会，是对员工生命的浪费.md",
     "03_Resources/03_AI与计算机/inbox/给想用“小龙虾”赚大钱的人泼盆冷水/images/img_005.other",
     "03_Resources/03_AI与计算机/inbox/给想用“小龙虾”赚大钱的人泼盆冷水/images/img_007.png",
-    "03_Resources/03_AI与计算机/inbox/给想用“小龙虾”赚大钱的人泼盆冷水/images/img_006.gif",
-    "03_Resources/03_AI与计算机/inbox/给想用“小龙虾”赚大钱的人泼盆冷水/images/img_008.gif",
-    "03_Resources/03_AI与计算机/inbox/给想用“小龙虾”赚大钱的人泼盆冷水/images/img_004.gif",
-    "03_Resources/03_AI与计算机/inbox/给想用“小龙虾”赚大钱的人泼盆冷水/images/img_003.png",
-    "03_Resources/03_AI与计算机/inbox/给想用“小龙虾”赚大钱的人泼盆冷水/images/img_001.png",
-    "03_Resources/03_AI与计算机/inbox/给想用“小龙虾”赚大钱的人泼盆冷水/images/img_002.png",
-    "03_Resources/03_AI与计算机/inbox/给想用“小龙虾”赚大钱的人泼盆冷水/给想用“小龙虾”赚大钱的人泼盆冷水.md",
     "03_Resources/03_AI与计算机/inbox/给想用“小龙虾”赚大钱的人泼盆冷水/images",
     "03_Resources/03_AI与计算机/inbox/给想用“小龙虾”赚大钱的人泼盆冷水",
     "03_Resources/01_底层原理/inbox/给你讲透我的老本行：到底什么是战略？/images/img_035.other",
     "03_Resources/01_底层原理/inbox/给你讲透我的老本行：到底什么是战略？/images/img_033.other",
-    "03_Resources/01_底层原理/inbox/给你讲透我的老本行：到底什么是战略？/images/img_034.gif",
-    "03_Resources/01_底层原理/inbox/给你讲透我的老本行：到底什么是战略？/images/img_032.gif",
     "03_Resources/01_底层原理/inbox/给你讲透我的老本行：到底什么是战略？/images/img_032.other",
-    "03_Resources/01_底层原理/inbox/给你讲透我的老本行：到底什么是战略？/images/img_031.gif",
-    "03_Resources/01_底层原理/inbox/给你讲透我的老本行：到底什么是战略？/images/img_030.other",
-    "03_Resources/01_底层原理/inbox/给你讲透我的老本行：到底什么是战略？/images/img_029.other",
-    "03_Resources/01_底层原理/inbox/给你讲透我的老本行：到底什么是战略？/images/img_027.other",
-    "03_Resources/01_底层原理/inbox/给你讲透我的老本行：到底什么是战略？/images/img_023.other",
     "03_Resources/01_底层原理/inbox/给你讲透我的老本行：到底什么是战略？/给你讲透我的老本行：到底什么是战略？.md",
-    "03_Resources/01_底层原理/inbox/低效的会，是对员工生命的浪费/低效的会，是对员工生命的浪费.md",
     "todelete/20260310133907_03月10日（勤商日历卡片）：别做公司里的“点子大王”/20260310133907_03月10日（勤商日历卡片）：别做公司里的“点子大王”.md",
     "todelete/20260308232626_03月09日（勤商日历卡片）：想救助自闭症儿童，却在“收费”上犹豫了/20260308232626_03月09日（勤商日历卡片）：想救助自闭症儿童，却在“收费”上犹豫了.md",
     "todelete/20260308232626_来到被美国封锁65年的古巴，这里月收入只够买100个鸡蛋/20260308232626_来到被美国封锁65年的古巴，这里月收入只够买100个鸡蛋.md",
     "todelete/20260308232626_一捧珠兰香，一杯小洞茶/20260308232626_一捧珠兰香，一杯小洞茶.md",
-    "todelete/20260310231838_03月11日（勤商日历卡片）：卡尼曼：人应该如何在不确定的状态下做决策/20260310231838_03月11日（勤商日历卡片）：卡尼曼：人应该如何在不确定的状态下做决策.md",
-    "todelete/20260306122056_创造性地降低售后成本，就是降低交易成本/20260306122056_创造性地降低售后成本，就是降低交易成本.md",
-    "00_Inbox/20260308232626_03月09日（勤商日历卡片）：想救助自闭症儿童，却在“收费”上犹豫了/20260308232626_03月09日（勤商日历卡片）：想救助自闭症儿童，却在“收费”上犹豫了.md",
-    "00_Inbox/20260308232626_低效的会，是对员工生命的浪费/20260308232626_低效的会，是对员工生命的浪费.md",
-    "00_Inbox/20260308232626_来到被美国封锁65年的古巴，这里月收入只够买100个鸡蛋/20260308232626_来到被美国封锁65年的古巴，这里月收入只够买100个鸡蛋.md",
-    "00_Inbox/20260308232626_一捧珠兰香，一杯小洞茶/20260308232626_一捧珠兰香，一杯小洞茶.md",
-    "00_Inbox/20260310133907_03月10日（勤商日历卡片）：别做公司里的“点子大王”/20260310133907_03月10日（勤商日历卡片）：别做公司里的“点子大王”.md",
-    "00_Inbox/20260310133907_给你讲透我的老本行：到底什么是战略？/20260310133907_给你讲透我的老本行：到底什么是战略？.md",
-    "00_Inbox/20260310133907_给想用“小龙虾”赚大钱的人泼盆冷水/20260310133907_给想用“小龙虾”赚大钱的人泼盆冷水.md",
-    "00_Inbox/20260310133907_自我边界很小，能量却很强大，为什么？/20260310133907_自我边界很小，能量却很强大，为什么？.md"
+    "todelete/20260310231838_03月11日（勤商日历卡片）：卡尼曼：人应该如何在不确定的状态下做决策/20260310231838_03月11日（勤商日历卡片）：卡尼曼：人应该如何在不确定的状态下做决策.md"
   ]
 }
