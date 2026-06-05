@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log.md",
+                "file": "03_Resources/02_商业化与创业/abstract/思维导图：我在上海开滴滴：滴滴司机的商业思维.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "log"
+              "title": "思维导图：我在上海开滴滴：滴滴司机的商业思维"
             }
           }
         ],
@@ -210,11 +210,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c3008cf43c610f43",
+  "active": "ac9749dfd76065f9",
   "lastOpenFiles": [
+    "inbox/{n6}/{n6}.md",
+    "03_Resources/02_商业化与创业/abstract/思维导图：我在上海开滴滴：滴滴司机的商业思维.md",
+    "inbox/{n6}",
+    "inbox",
+    "log.md",
     "03_Resources/02_商业化与创业/abstract/思维导图：我在上海送外卖：外卖小哥的商业思维.md",
     "03_Resources/02_商业化与创业/01_概念卡/C-体力劳动中的脑力差异.md",
-    "03_Resources/02_商业化与创业/abstract/思维导图：我在上海开滴滴：滴滴司机的商业思维.md",
     "03_Resources/03_AI与计算机/abstract/思维导图：春晚AI算力极限压力测试.md",
     "03_Resources/02_商业化与创业/01_概念卡/C-人口倒逼自动化.md",
     "03_Resources/02_商业化与创业/abstract/思维导图：人口减少与经济转型.md",
@@ -242,8 +246,6 @@
     "03_Resources/02_商业化与创业/inbox/我在上海送外卖：外卖小哥的商业思维/images/img_033.other",
     "03_Resources/02_商业化与创业/inbox/我在上海送外卖：外卖小哥的商业思维/images/img_034.other",
     "03_Resources/02_商业化与创业/inbox/我在上海送外卖：外卖小哥的商业思维/images/img_032.other",
-    "03_Resources/02_商业化与创业/inbox/我在上海送外卖：外卖小哥的商业思维/images/img_031.other",
-    "03_Resources/02_商业化与创业/inbox/我在上海送外卖：外卖小哥的商业思维/images/img_030.other",
     "03_Resources/02_商业化与创业/inbox/我在上海送外卖：外卖小哥的商业思维/我在上海送外卖：外卖小哥的商业思维.md",
     "03_Resources/02_商业化与创业/inbox/我在上海开滴滴：滴滴司机的商业思维/我在上海开滴滴：滴滴司机的商业思维.md",
     "03_Resources/03_AI与计算机/inbox/春晚AI算力极限压力测试/春晚AI算力极限压力测试.md",
@@ -255,8 +257,6 @@
     "03_Resources/03_AI与计算机/03_案例卡/A-宇树科技低成本人形机器人.md",
     "03_Resources/03_AI与计算机/01_概念卡/C-机器人范式转变.md",
     "03_Resources/03_AI与计算机/abstract/思维导图：春晚扭秧歌机器人背后的机器人进化谱系.md",
-    "03_Resources/03_AI与计算机/inbox/春晚扭秧歌机器人背后的机器人进化谱系/春晚扭秧歌机器人背后的机器人进化谱系.md",
-    "03_Resources/02_商业化与创业/03_案例卡/A-沃尔沃一字马营销案例.md",
-    "03_Resources/02_商业化与创业/03_案例卡/A-北面极限营销案例.md"
+    "03_Resources/03_AI与计算机/inbox/春晚扭秧歌机器人背后的机器人进化谱系/春晚扭秧歌机器人背后的机器人进化谱系.md"
   ]
 }
