@@ -103,3 +103,9 @@
 ## 📝 摘要/思维导图
 
 - [[03_Resources/03_AI与计算机/abstract/思维导图：卓克中小学的孩子不需要急着接触AI]] — 3大趋势
+
+- [[03_Resources/03_AI与计算机/inbox/Clawdbot爆火：我们离全能助手的时代，又进了一步/Clawdbot爆火：我们离全能助手的时代，又进了一步]] — AI智能体感知-决策-行动三要素
+- [[03_Resources/03_AI与计算机/inbox/一文读懂 Skills｜从概念到实操的完整指南]] — Skills核心概念
+
+- [[03_Resources/03_AI与计算机/abstract/思维导图：Clawdbot爆火：我们离全能助手的时代，又进了一步]] — 1节点·三要素
+- [[03_Resources/03_AI与计算机/abstract/思维导图：一文读懂 Skills｜从概念到实操的完整指南]] — 2节点·核心概念
